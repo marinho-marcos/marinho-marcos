@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
@@ -35,14 +34,14 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Cadastro de Alunos (CRUD)</h3>
+      <h3 align="center">Caixa Eletrônico</h3>
       <p align="center">
-        <a href="https://github.com/marinho-marcos/Sistema-de-cadastro-de-alunos-CRUD" target="_blank">
-          <img src="https://i.imgur.com/crud-project-image.png" width="400" alt="CRUD de Alunos">
+        <a href="https://github.com/marinho-marcos/caixa_eletronico" target="_blank">
+          <img src="https://i.imgur.com/crud-project-image.png" width="400" alt="Caixa Eletrônico">
         </a>
         <br>
         <p align="center">
-          Aplicação de console em Java com JDBC para gerenciar um banco de dados PostgreSQL, utilizando Maven e o padrão DAO.
+          Aplicação que simula as operações de um caixa eletrônico, desenvolvida em Java com uma interface JavaFX.
         </p>
       </p>
     </td>
